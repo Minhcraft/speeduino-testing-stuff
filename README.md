@@ -18,8 +18,12 @@
 ## Speeduino
 The Speeduino project is a flexible, fully featured Engine Management Systems (EMS aka ECU) based on the low cost and open source Arduino platform. It provides the hardware, firmware and software components that make up an engine management system, all provided under open licenses. With over 1000 installations, Speeduino has matured into a product that meets the needs of the hobbyist and enthusiast community without driving prices to the levels of traditional aftermarket ECUs.
 
+This is an experimental branch regarding _rotational idle_ and _rally style antilag_ with implications of off road use only. Such modifications can and will cause cylinder wash, oil dilution, turbocharging system and engine wear along with increased load on engine components. Use of such features poses serious risk to engine and turbocharging system longevity. Proceed with caution or modifications to suit your system.
+
 ## Documentation
 The Speeduino online manual can be found at: https://wiki.speeduino.com
+
+Additional Features wiki coming soon.
 
 ## Where to Buy
 [Pre-made Speeduino units/boards are available from a number of official resellers](https://speeduino.com/home/where-to-buy)
